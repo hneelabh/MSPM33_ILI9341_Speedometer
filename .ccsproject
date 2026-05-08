@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVariant value="50:Theia-based"/>
+	<ccsVersion value="70.3.0"/>
+	<deviceFamily value="TMS470"/>
+	<connection value="common/targetdb/connections/TIXDS110_Connection.xml"/>
+	<executableActions value=""/>
+	<createSlaveProjects value=""/>
+	<ignoreDefaultDeviceSettings value="true"/>
+	<ignoreDefaultCCSSettings value="true"/>
+	<templateProperties value="id=crcp_calculate_checksum_LP_MSPM33C321A_nortos_ticlang.projectspec.crcp_calculate_checksum_LP_MSPM33C321A_nortos_ticlang,buildProfile=release,isHybrid=true"/>
+	<activeTargetConfiguration value="targetConfigs/MSPM33C321A.ccxml"/>
+	<isTargetConfigurationManual value="false"/>
+	<sourceLookupPath value="${COM_TI_MSPM33_SDK_INSTALL_DIR}/source/ti/driverlib"/>
+	<origin value="C:\ti\mspm33_sdk_1_00_00_00_internal\examples\nortos\LP_MSPM33C321A\driverlib\crcp_calculate_checksum\ticlang\crcp_calculate_checksum_LP_MSPM33C321A_nortos_ticlang.projectspec"/>
+	<filesToOpen value="crcp_calculate_checksum.syscfg,README.md"/>
+</projectOptions>

@@ -1,0 +1,32 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+SHELL = cmd.exe
+
+# Add inputs and outputs from these tool invocations to the build variables 
+C_SRCS += \
+../lvgl/examples/others/fragment/lv_example_fragment_1.c \
+../lvgl/examples/others/fragment/lv_example_fragment_2.c 
+
+C_DEPS += \
+./lvgl/examples/others/fragment/lv_example_fragment_1.d \
+./lvgl/examples/others/fragment/lv_example_fragment_2.d 
+
+OBJS += \
+./lvgl/examples/others/fragment/lv_example_fragment_1.o \
+./lvgl/examples/others/fragment/lv_example_fragment_2.o 
+
+OBJS__QUOTED += \
+"lvgl\examples\others\fragment\lv_example_fragment_1.o" \
+"lvgl\examples\others\fragment\lv_example_fragment_2.o" 
+
+C_DEPS__QUOTED += \
+"lvgl\examples\others\fragment\lv_example_fragment_1.d" \
+"lvgl\examples\others\fragment\lv_example_fragment_2.d" 
+
+C_SRCS__QUOTED += \
+"../lvgl/examples/others/fragment/lv_example_fragment_1.c" \
+"../lvgl/examples/others/fragment/lv_example_fragment_2.c" 
+
+
